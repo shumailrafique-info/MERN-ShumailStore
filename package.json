@@ -2,7 +2,7 @@
   "name": "binyousaf.pk",
   "version": "1.0.0",
   "description": "",
-  "main": "server/index.js",
+  "main": "server/server.js",
   "engines":{
     "node":">=14.20.1"
   },
